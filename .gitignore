@@ -1,0 +1,20 @@
+# Unreal Engine Default Settings for new projects.
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Rider e Visual Studio.
+.idea
+.vsconfig
+Build
